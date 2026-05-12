@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Fixed
+- T15-seq2: fix request timeout in health check probe
+
 ## [20260512.5] feat: T15 seq1 rate limiter
 
 ### Added
