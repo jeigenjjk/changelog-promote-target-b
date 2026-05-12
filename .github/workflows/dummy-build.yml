@@ -1,0 +1,10 @@
+name: Dummy Build
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build step
+        run: echo "Dummy build ran at $(date)"
