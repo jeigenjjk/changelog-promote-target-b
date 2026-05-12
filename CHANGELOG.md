@@ -8,3 +8,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 - Initial project setup for target-b
+- T11 cross-repo workflow_call test
