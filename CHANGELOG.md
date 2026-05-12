@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Fixed
+- T8 slow-merge: fix memory leak in event listener cleanup
+
 ## [20260512.3] feat: T8 fast-merge changelog entry
 
 ### Added
