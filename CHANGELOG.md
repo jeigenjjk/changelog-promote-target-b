@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+- T15-seq3: refactor logging to structured JSON format
+
 ## [20260512.4] fix: T8 slow-merge changelog entry
 
 ### Fixed
