@@ -9,6 +9,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 - T15-seq3: refactor logging to structured JSON format
 
+## [20260512.6] fix: T15 seq2 health check timeout
+
+### Fixed
+- T15-seq2: fix request timeout in health check probe
+
 ## [20260512.5] feat: T15 seq1 rate limiter
 
 ### Added
