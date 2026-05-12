@@ -9,6 +9,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 - T15-seq2: fix request timeout in health check probe
 
+## [20260512.5] feat: T15 seq1 rate limiter
+
+### Added
+- T15-seq1: add rate limiter for API gateway
+
 ## [20260512.4] fix: T8 slow-merge changelog entry
 
 ### Fixed
