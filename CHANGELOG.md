@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [20260512.7] chore: T15 seq3 structured logging
+
 ### Changed
 - T15-seq3: refactor logging to structured JSON format
 
