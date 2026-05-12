@@ -9,6 +9,8 @@ jobs:
     uses: jeigenjjk/changelog-promote-pipeline/.github/workflows/changelog-promote.yml@main
     with:
       trigger_sha: ${{ github.sha }}
+    secrets:
+      push_token: ${{ secrets.PUSH_TOKEN }}
     permissions:
       contents: write
       pull-requests: read
