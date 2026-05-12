@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [20260512.3] feat: T8 fast-merge changelog entry
+
 ### Added
 - T8 fast-merge: new retry logic for webhook delivery
 
