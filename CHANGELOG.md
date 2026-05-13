@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [20260513.8] security: T7 upgrade TLS to 1.3
+
 ### Security
 - T7: upgrade TLS to 1.3 for all internal service communication
 
