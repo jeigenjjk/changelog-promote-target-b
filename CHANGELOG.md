@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Security
+- T7: upgrade TLS to 1.3 for all internal service communication
+
 ## [20260512.7] chore: T15 seq3 structured logging
 
 ### Changed
